@@ -1,0 +1,2 @@
+# Machine-Learning-Classification-Model-for-Flora-Business
+This project is about creating a Machine Learning classification model that identifies and predicts a type of customer.  The data has been adapted from a real online retailer selling mainly decoration household items and called this company "Flora". The dataset provided was queried using SQL and the rest of the analysis was done in python. The first version of the model is done but the project is still in development to further make it more accurate and see if other model types works better.
